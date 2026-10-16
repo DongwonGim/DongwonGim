@@ -17,7 +17,7 @@
 
 ### 사이드 프로젝트
 
-테크노 DJ로 디깅하고 트랙을 트는 게 취미라, 사이드 프로젝트도 대부분 거기서 시작합니다.
+테크노 DJ로 디깅하고 트랙을 트는 게 취미라, 사이드 프로젝트도 대부분 거기서 시작합니다. 저장소는 모두 비공개입니다.
 
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
@@ -25,7 +25,7 @@
 | DJ Library | 텔레그램으로 받은 음원을 수집하고 BPM, 키, 비트 그리드를 분석해 rekordbox로 내보내는 개인 음악 클라우드 | FastAPI, librosa, Essentia, Web Audio |
 | dj-kick-monitor | CDJ 두 대의 킥이 어긋나는 순간을 실시간으로 보여 주는 모니터 | Python, numpy |
 | Toss Quant | 토스증권 Open API로 KRX 데이터를 모아 신호를 백테스트하고, 기각한 가설까지 기록하는 퀀트 리서치 | Python, vectorbt, DuckDB |
-| [Claude Tab Janitor](https://github.com/DongwonGim/chrome-claude-tab-janitor) | Claude in Chrome이 남기는 탭 그룹을 정리하는 크롬 확장 | Chrome MV3 |
+| Claude Tab Janitor | Claude in Chrome이 남기는 탭 그룹을 정리하는 크롬 확장 | Chrome MV3 |
 
 ### 주로 쓰는 것
 
